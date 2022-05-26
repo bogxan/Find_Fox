@@ -1,0 +1,14 @@
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\bin\Debug\la1.exe.config
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\bin\Debug\la1.exe
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\bin\Debug\la1.pdb
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\obj\Debug\la1.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\obj\Debug\la1.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\obj\Debug\la1.exe
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\la1\la1\obj\Debug\la1.pdb
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\bin\Debug\la1.exe.config
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\bin\Debug\la1.exe
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\bin\Debug\la1.pdb
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\obj\Debug\la1.csprojAssemblyReference.cache
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\obj\Debug\la1.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\obj\Debug\la1.exe
+C:\Users\Bohdan\Desktop\Учеба\Универ\Констр. ПО\lab1\la1\obj\Debug\la1.pdb
